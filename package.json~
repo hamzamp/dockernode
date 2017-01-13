@@ -1,8 +1,8 @@
 {
-  "name": "hello-umanlife",
+  "name": "hello-pluralsighters",
   "private": true,
   "version": "0.0.1",
-  "description": "demo app",
+  "description": "Demo app for Pluralsight Docker CI course",
   "main": "app.js",
   "author": "Me",
   "license": "production",
