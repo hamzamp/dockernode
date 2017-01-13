@@ -1,0 +1,11 @@
+
+
+#deployment:
+#  dockerhub:
+#    branch: master
+#    commands:
+#      - $DOCKER_HUB
+
+test:
+  override:    
+    - mocha
